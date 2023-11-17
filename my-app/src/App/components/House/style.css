@@ -1,0 +1,11 @@
+.house {
+    padding-left: 24px;
+    cursor: pointer;
+}
+
+.flats {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 12px 24px;
+}

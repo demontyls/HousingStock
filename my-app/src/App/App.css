@@ -1,0 +1,10 @@
+.main-content {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 0 16px;
+}
+
+[role="button"]:hover {
+    color: rgba(0, 123, 255, 0.7) !important;
+    cursor: pointer;
+}

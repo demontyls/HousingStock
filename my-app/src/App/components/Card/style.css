@@ -1,0 +1,36 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    padding: 12px 8px;
+    border-radius: 4px;
+    border: 1px solid darkgray;
+    background: rgba(169, 169, 169, 0.1);
+    font-size: 14px;
+}
+
+.avatar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background: darkgrey;
+    border-radius: 50%;
+}
+
+button {
+    display: flex;
+    font-size: 12px;
+    line-height: 12px;
+    padding: 4px 8px;
+    color: white;
+    border-radius: 4px;
+    background: tomato;
+    border: none;
+}
+
+.card-content {
+
+}
